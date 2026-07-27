@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+joblib
+
+
+# use this to install ------ >>>>   pip install -r requirements.txt
