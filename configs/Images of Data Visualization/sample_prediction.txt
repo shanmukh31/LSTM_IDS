@@ -1,0 +1,44 @@
+
+
+==================================================
+CNN-LSTM IDS Prediction Demo
+==================================================
+
+
+Device Used:
+cpu
+
+
+Random Sample Index:
+29023
+
+
+Number of Features Displayed:
+10
+
+(Note: Model internally uses all 78 features)
+
+
+Sample Input Features:
+
+[-0.42915601 -0.42343251  0.0048728  -0.00348762  0.26099398 -0.00665644
+  1.40544224 -0.29846428  0.3896725   0.96544719]
+
+
+
+Actual Class:
+BENIGN
+
+
+
+Predicted Class:
+BENIGN
+
+
+
+Prediction Confidence:
+100.00%
+
+
+==================================================
+

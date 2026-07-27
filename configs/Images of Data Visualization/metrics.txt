@@ -1,0 +1,4 @@
+Accuracy : 98.24%
+Precision: 98.23%
+Recall   : 98.24%
+F1 Score : 98.16%
